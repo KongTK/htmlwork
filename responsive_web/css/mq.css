@@ -10,6 +10,7 @@
 @media screen and (min-width:780px) {
     #container{background-color: #0f0;}
 }
+
 /* pc기준 */
 @media screen and (min-width:1024px) {
     #container{background-color: #00f;}
